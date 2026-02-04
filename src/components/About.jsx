@@ -1,5 +1,5 @@
-import React from "react";
-/*import Tilt from "react-tilt";*/
+/*import React from "react";
+import Tilt from "react-tilt";
 import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
 
@@ -64,4 +64,4 @@ const About = () => {
   );
 };
 
-export default SectionWrapper(About, "about");
+export default SectionWrapper(About, "about"); */
